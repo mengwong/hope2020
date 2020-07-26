@@ -7,7 +7,10 @@ Will be linked from here probably around July 2020.
 
 This README contains all the links that went by in the talk.
 
-| [[watman-smaller.png][wat]]  | [[https://www.destroyallsoftware.com/talks/wat]] |
+#+ATTR_ORG: :width 300
+
+| [[file:watman-smaller.png]]   | [[https://www.destroyallsoftware.com/talks/wat]] |
+| [[file:mengwong-twitter.png]] | https://twitter.com/mengwong                 |
 
 * Talk Outline
 ** Intro
