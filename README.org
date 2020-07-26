@@ -9,8 +9,8 @@ This README contains all the links that went by in the talk.
 
 #+ATTR_ORG: :width 300
 
-| [[file:watman-smaller.png]]   | [[https://www.destroyallsoftware.com/talks/wat]] |
-| [[file:mengwong-twitter.png]] | https://twitter.com/mengwong                 |
+| [[file:watman-smaller.png]]           | [[https://www.destroyallsoftware.com/talks/wat]] |
+| [[file:mengwong-twitter-smaller.png]] | https://twitter.com/mengwong                 |
 
 * Talk Outline
 ** Intro
