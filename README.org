@@ -1,0 +1,19 @@
+#+TITLE: Meng's Hope 2020 Talk: Computational Law
+* The Recording Itself
+
+Will be linked from here probably around July 2020.
+
+* Links and Credits
+
+This README contains all the links that went by in the talk.
+
+| [[watman-smaller.png][wat]]  | [[https://www.destroyallsoftware.com/talks/wat]] |
+
+* Talk Outline
+** Intro
+- robo-lawyers
+- gpt-3 plain english to legalese
+- joke: thousands of cases just like yours
+- some of my best friends are lawyers.
+- 
+
